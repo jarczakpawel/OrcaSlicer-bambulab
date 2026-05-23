@@ -36,7 +36,7 @@ The reason was simple: the Linux path already existed in the public AGPL Bambu S
 
 Using WSL2 / Lima made it possible to reuse the existing Linux-side path without touching the closed plugin binary, without patching it, and without reverse-engineering it.
 
-If I had been reverse-engineering the proprietary plugin, it would make no sense to impose the extra complexity of WSL2 / Lima just to run the existing Linux path. The entire point was the opposite: to stay on the public AGPL source-code side as much as possible.
+If I had been reverse-engineering the proprietary plugin, it would make no sense to impose the extra complexity of WSL2 / Lima just to run the existing Linux path. The entire point was the opposite: to stay on the public AGPL source-code side enitrely.
 
 This was not a method for bypassing a security system. It was a way to reuse code that Bambu Lab itself had published under AGPL.
 
